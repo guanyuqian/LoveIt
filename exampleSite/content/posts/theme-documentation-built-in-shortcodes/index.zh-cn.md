@@ -12,7 +12,7 @@ resources:
   src: "featured-image.png"
 
 tags: ["shortcodes"]
-categories: ["documentation"]
+categories: ["Documentation"]
 
 lightgallery: true
 ---
@@ -108,19 +108,6 @@ Hugo 附带了一组预定义的 shortcodes, 它们实现了一些非常常见�
 </section>
 {{< /highlight >}}
 
-## 4 instagram
-
-[`instagram` 的文档](https://gohugo.io/content-management/shortcodes#instagram)
-
-一个 `instagram` 示例:
-
-```markdown
-{{</* instagram BWNjjyYFxVx hidecaption */>}}
-```
-
-呈现的输出效果如下:
-
-{{< instagram BWNjjyYFxVx hidecaption >}}
 
 ## 5 param
 
@@ -140,21 +127,8 @@ Hugo 附带了一组预定义的 shortcodes, 它们实现了一些非常常见�
 
 [`ref` 和 `relref` 的文档](https://gohugo.io/content-management/shortcodes#ref-and-relref)
 
-## 7 tweet
 
-[`tweet` 的文档](https://gohugo.io/content-management/shortcodes#tweet)
-
-一个 `tweet` 示例:
-
-```markdown
-{{</* tweet 877500564405444608 */>}}
-```
-
-呈现的输出效果如下:
-
-{{< tweet 877500564405444608 >}}
-
-## 8 vimeo
+## 7 vimeo
 
 [`vimeo` 的文档](https://gohugo.io/content-management/shortcodes#vimeo)
 
@@ -168,7 +142,7 @@ Hugo 附带了一组预定义的 shortcodes, 它们实现了一些非常常见�
 
 {{< vimeo 146022717 >}}
 
-## 9 youtube
+## 8 youtube
 
 [`youtube` 的文档](https://gohugo.io/content-management/shortcodes#youtube)
 

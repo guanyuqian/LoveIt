@@ -12,7 +12,7 @@ resources:
   src: "featured-image.png"
 
 tags: ["shortcodes"]
-categories: ["documentation"]
+categories: ["Documentation"]
 
 lightgallery: true
 ---
@@ -124,7 +124,6 @@ Example `instagram` input:
 
 The rendered output looks like this:
 
-{{< instagram BWNjjyYFxVx hidecaption >}}
 
 ## 5 param
 
@@ -156,7 +155,6 @@ Example `tweet` input:
 
 The rendered output looks like this:
 
-{{< tweet 877500564405444608 >}}
 
 ## 8 vimeo
 

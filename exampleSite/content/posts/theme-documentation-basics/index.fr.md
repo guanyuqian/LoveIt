@@ -12,7 +12,7 @@ resources:
   src: "featured-image.jpg"
 
 tags: ["installation", "configuration"]
-categories: ["documentation"]
+categories: ["Documentation"]
 
 lightgallery: true
 

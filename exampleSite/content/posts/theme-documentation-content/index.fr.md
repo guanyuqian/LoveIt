@@ -12,7 +12,7 @@ resources:
   src: "featured-image.jpg"
 
 tags: ["content", "Markdown"]
-categories: ["documentation"]
+categories: ["Documentation"]
 
 lightgallery: true
 

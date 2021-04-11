@@ -14,7 +14,7 @@ resources:
   src: "featured-image-preview.jpg"
 
 tags: ["shortcodes"]
-categories: ["documentation"]
+categories: ["Documentation"]
 
 lightgallery: true
 mapbox:
